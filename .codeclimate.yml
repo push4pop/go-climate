@@ -7,3 +7,5 @@ checks:
 plugins:
   gofmt:
     enabled: true
+
+
